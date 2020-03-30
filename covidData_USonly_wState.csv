@@ -1,188 +1,188 @@
-round,country_code,region_code,zip_code_3dig,gender,was_quarantined,reason_quarantine,status_quarantine,date_start_quarantine,date_end_quarantine,is_symptomatic,fever,cough,difficulty_breathing,fatigue,sore_throat,date_start_symptoms,date_end_symptoms,still_symptomatic,got_medical_care,type_of_care,hospitalized,date_when_admitted,date_when_discharged,still_in_hospital,tested,tried_to_get_tested,was_denied,date_test,results_test,location_test,state_code
-5768436,US,TX,762,f,True,voluntary,still quarantined,2020-03-19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TX
-5768305,US,CA,904,m,True,general quarantine,still quarantined,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5767876,US,MA,NaN,m,True,voluntary,still quarantined,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5766392,US,CA,947,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5765286,US,NC,272,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NC
-5765030,US,RI,028,f,True,voluntary,NaN,2020-03-11,2020-03-25,True,True,NaN,NaN,True,NaN,2020-03-11,2020-03-25,NaN,True,virtual care,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,RI
-5764388,US,MD,212,m,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5764069,US,CO,805,f,True,general quarantine,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5763195,US,NY,112,m,True,voluntary,still quarantined,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5763126,US,NaN,805,f,True,general quarantine,still quarantined,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5762449,US,GA,310,f,True,voluntary,still quarantined,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5762324,US,NaN,317,f,True,general quarantine,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5755599,US,NaN,112,f,True,voluntary,still quarantined,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5755555,US,CA,940,f,True,general quarantine,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5755338,US,ME,041,m,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,ME
-5755198,US,VA,224,f,True,voluntary,still quarantined,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,VA
-5754606,US,NaN,101,m,True,voluntary,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5754516,US,NY,112,f,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5753672,US,CA,921,m,True,general quarantine,still quarantined,2020-03-20,NaN,True,True,True,NaN,True,True,2020-03-17,2020-03-29,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NaN,CA
-5753458,US,NY,100,f,True,general quarantine,NaN,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5751625,US,NaN,805,m,True,voluntary,NaN,2020-03-14,2020-03-28,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5751579,US,DE,197,m,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,DE
-5751526,US,CO,805,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5751473,US,NaN,805,f,True,general quarantine,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5751451,US,NaN,805,f,True,voluntary,NaN,2020-03-13,2020-03-28,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5750596,US,PA,175,m,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,PA
-5750322,US,NY,113,m,True,voluntary,still quarantined,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5749966,US,CO,802,m,True,general quarantine,still quarantined,2020-03-25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5747632,US,TX,773,m,True,general quarantine,still quarantined,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TX
-5747079,US,NaN,908,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5746929,US,NY,100,m,True,voluntary,still quarantined,2020-03-18,NaN,True,True,True,NaN,True,NaN,2020-03-16,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NaN,NY
-5746668,US,GA,300,m,True,voluntary,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5746583,US,NY,100,f,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5746103,US,NaN,300,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5745722,US,FL,331,f,True,voluntary,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5745079,US,OK,741,m,True,voluntary,still quarantined,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,OK
-5743754,US,MI,481,f,True,voluntary,NaN,NaN,NaN,True,True,True,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MI
-5742705,US,RI,029,m,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,RI
-5742132,US,VA,220,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,VA
-5741610,US,CO,800,m,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5736335,US,NY,116,f,True,general quarantine,still quarantined,2020-03-16,NaN,True,True,True,True,True,True,2020-03-16,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,2020-03-16,positive,Urgent Care,NY
-5736247,US,WA,983,m,True,voluntary,still quarantined,2019-10-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,WA
-5732549,US,NaN,329,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5732507,US,DC,200,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,DC
-5731593,US,GA,300,f,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5731522,US,NY,100,m,True,voluntary,still quarantined,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5731237,US,AZ,852,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,AZ
-5731195,US,NaN,945,f,True,due to symptoms,still quarantined,2020-03-01,NaN,True,NaN,NaN,NaN,NaN,True,2020-03-01,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,CA
-5730899,US,NY,105,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5729270,US,NY,105,m,True,voluntary,still quarantined,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5727524,US,GA,300,f,True,voluntary,still quarantined,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5727394,US,CO,801,m,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5726310,US,MT,590,m,True,due to symptoms,still quarantined,2020-03-19,NaN,True,True,True,NaN,True,True,2020-03-19,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,MT
-5726112,US,PA,190,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,PA
-5725671,US,NaN,300,f,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5725475,US,NaN,305,f,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5725422,US,GA,300,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5725413,US,NaN,530,f,True,voluntary,still quarantined,2020-03-08,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,WI
-5725298,US,CO,801,NaN,True,voluntary,still quarantined,2020-03-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5725021,US,NaN,334,f,True,voluntary,still quarantined,2020-03-07,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5724968,US,VA,201,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,VA
-5724950,US,CA,947,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5724832,US,NaN,373,m,True,general quarantine,still quarantined,2020-03-02,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TN
-5724721,US,NaN,131,m,True,voluntary,still quarantined,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5724656,US,NaN,300,f,True,voluntary,still quarantined,2020-03-15,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5724565,US,NaN,305,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5724389,US,TN,373,f,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TN
-5724182,US,GA,300,m,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5723903,US,NaN,100,f,True,voluntary,still quarantined,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5723309,US,NaN,100,f,True,personally required,still quarantined,2020-03-25,NaN,True,True,NaN,NaN,True,True,2020-03-25,NaN,True,True,virtual care,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5722403,US,MD,210,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5722207,US,GA,300,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5722071,US,MA,024,m,True,general quarantine,still quarantined,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5721748,US,MD,210,f,True,voluntary,still quarantined,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5720460,US,MA,017,m,True,general quarantine,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5716171,US,TX,700,m,True,general quarantine,still quarantined,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TX
-5715786,US,NaN,300,f,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5715733,US,GA,305,m,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5715662,US,CO,807,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CO
-5715632,US,MD,217,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5715613,US,MD,212,m,True,due to symptoms,NaN,2020-03-16,2020-03-20,True,True,True,NaN,NaN,NaN,2020-03-16,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NaN,MD
-5715423,US,GA,300,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5715265,US,MD,217,m,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5715214,US,GA,306,m,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5715006,US,PA,173,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,PA
-5714977,US,FL,330,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5714924,US,GA,303,f,True,general quarantine,still quarantined,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5714843,US,PA,152,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,PA
-5714833,US,MD,210,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714778,US,GA,300,f,True,general quarantine,still quarantined,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5714695,US,NaN,755,f,True,general quarantine,still quarantined,2020-03-19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TX
-5714689,US,GA,300,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5714666,US,NaN,212,m,True,voluntary,NaN,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714628,US,NaN,212,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714614,US,GA,305,m,True,voluntary,still quarantined,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5714596,US,TN,376,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TN
-5714527,US,MD,210,f,True,voluntary,still quarantined,2020-02-26,NaN,True,NaN,True,NaN,NaN,True,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714510,US,NaN,210,f,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714355,US,NaN,329,f,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5714220,US,NY,100,f,True,voluntary,still quarantined,2020-03-22,NaN,True,NaN,True,True,True,NaN,2020-03-07,NaN,True,True,virtual care,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NY
-5714190,US,NaN,452,m,True,voluntary,still quarantined,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,OH
-5714150,US,MD,210,f,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714067,US,MD,211,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5714037,US,GA,300,m,True,due to symptoms,still quarantined,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,GA
-5713901,US,MD,210,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5713870,US,FL,333,m,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5713820,US,NaN,210,f,True,general quarantine,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5713692,US,NaN,801,m,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5713519,US,NaN,286,m,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NC
-5713433,US,MD,210,m,True,voluntary,still quarantined,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5713294,US,NY,112,f,True,general quarantine,still quarantined,2020-03-08,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5712423,US,NY,100,f,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5711047,US,NY,100,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5708807,US,NaN,100,f,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NY
-5708290,US,CA,926,m,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5708263,US,MD,212,f,True,general quarantine,still quarantined,2020-03-11,NaN,True,NaN,NaN,NaN,True,NaN,2020-03-18,2020-03-23,NaN,True,walk-in clinic,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,MD
-5708244,US,NY,112,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5707870,US,CA,941,m,True,general quarantine,still quarantined,2020-03-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5707488,US,NY,107,f,True,general quarantine,NaN,2020-03-09,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NY
-5707293,US,OR,970,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,OR
-5706860,US,AZ,852,f,True,voluntary,still quarantined,2020-03-17,NaN,True,True,True,NaN,NaN,NaN,2020-03-23,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,AZ
-5706612,US,NY,105,f,True,voluntary,still quarantined,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5706507,US,CA,920,m,True,voluntary,still quarantined,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5706389,US,NY,104,f,True,due to symptoms,still quarantined,2020-03-13,NaN,True,True,True,NaN,True,NaN,2020-03-10,NaN,True,True,hospital/ER,True,NaN,NaN,NaN,True,NaN,NaN,2020-03-19,positive,Hospital,NY
-5706279,US,NY,115,m,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5706273,US,MA,024,m,True,voluntary,still quarantined,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5706216,US,CA,900,f,True,general quarantine,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5705763,US,MD,212,m,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5705747,US,MD,212,f,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5705740,US,FL,331,m,True,voluntary,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,FL
-5705502,US,NY,113,f,True,general quarantine,still quarantined,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5705177,US,TX,750,f,True,voluntary,still quarantined,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,TX
-5703125,US,NaN,105,m,True,voluntary,still quarantined,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5702678,US,IN,470,m,True,general quarantine,still quarantined,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,IN
-5702490,US,NJ,074,m,True,personally required,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5698675,US,NaN,212,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5698577,US,MO,631,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MO
-5698235,US,MD,212,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5697657,US,CA,946,f,True,general quarantine,still quarantined,2020-03-02,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5697641,US,NaN,921,m,True,voluntary,still quarantined,2020-03-16,NaN,True,NaN,NaN,NaN,True,True,2020-03-09,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NaN,CA
-5696254,US,NaN,212,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5695269,US,NaN,100,m,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5695208,US,NY,100,f,True,personally required,still quarantined,2020-03-25,NaN,True,NaN,True,NaN,True,True,2020-03-24,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NY
-5694788,US,IN,470,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,IN
-5694384,US,CA,926,f,True,voluntary,still quarantined,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5693770,US,NY,113,f,True,general quarantine,NaN,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5693768,US,MD,212,m,True,general quarantine,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5693551,US,NY,100,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5692811,US,NaN,100,f,True,voluntary,still quarantined,2020-03-22,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5692794,US,NaN,200,m,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,DC
-5692664,US,MD,212,f,True,voluntary,still quarantined,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5692615,US,IL,602,f,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,IL
-5691895,US,CA,900,m,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5690759,US,CT,068,f,True,general quarantine,still quarantined,2020-03-16,NaN,True,NaN,True,NaN,NaN,NaN,2020-03-14,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CT
-5690470,US,NY,105,m,True,voluntary,still quarantined,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5690025,US,CA,945,m,True,general quarantine,NaN,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5689482,US,NJ,074,f,True,general quarantine,still quarantined,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NJ
-5689481,US,AZ,860,f,True,voluntary,still quarantined,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,AZ
-5687752,US,NY,100,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5687641,US,NaN,117,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5687375,US,MA,021,m,True,voluntary,still quarantined,2020-03-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5687202,US,NY,112,f,True,general quarantine,NaN,2020-03-18,2020-03-25,True,NaN,True,NaN,NaN,True,2020-03-18,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5686839,US,NY,100,f,True,general quarantine,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5686582,US,NY,112,f,True,due to symptoms,still quarantined,2020-03-17,NaN,True,True,True,NaN,True,NaN,2020-03-17,NaN,True,True,doctors office,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5686441,US,CA,951,m,True,general quarantine,still quarantined,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,CA
-5686386,US,MA,021,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5686370,US,PA,170,m,True,voluntary,NaN,2020-03-17,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,PA
-5686275,US,NaN,112,f,True,general quarantine,still quarantined,2020-03-18,NaN,True,True,True,NaN,True,NaN,2020-03-15,NaN,True,True,doctors office,NaN,NaN,NaN,NaN,True,NaN,NaN,2020-03-18,positive,Dr. Office,NY
-5685891,US,NY,104,m,True,voluntary,NaN,2020-03-12,2020-03-20,True,True,NaN,NaN,True,True,2020-03-10,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NY
-5685776,US,FL,330,m,True,general quarantine,still quarantined,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5685511,US,NaN,333,f,True,voluntary,still quarantined,2020-03-15,NaN,True,NaN,NaN,NaN,True,True,2020-03-19,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5685192,US,NY,100,f,True,voluntary,still quarantined,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5685182,US,NY,104,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5685142,US,NY,112,m,True,due to symptoms,still quarantined,2020-03-14,NaN,True,True,True,NaN,True,True,2020-03-14,NaN,True,True,other,NaN,NaN,NaN,NaN,True,NaN,NaN,2020-03-17,positive,Urgent Care,NY
-5685088,US,MA,021,m,True,general quarantine,still quarantined,2020-02-24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MA
-5685087,US,NaN,112,m,True,general quarantine,still quarantined,2020-03-18,NaN,True,True,NaN,NaN,NaN,NaN,2020-03-18,2020-03-25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,NaN,NY
-5684654,US,FL,331,m,True,voluntary,NaN,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5684380,US,FL,334,m,True,voluntary,still quarantined,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5684150,US,FL,330,m,True,general quarantine,NaN,NaN,NaN,True,NaN,NaN,NaN,True,NaN,2020-03-15,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5684117,US,FL,330,m,True,general quarantine,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
-5683980,US,MD,212,m,True,voluntary,still quarantined,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,MD
-5683944,US,CA,946,NaN,True,voluntary,still quarantined,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,True,NaN,NaN,NaN,CA
-5683294,US,NY,112,f,True,voluntary,still quarantined,2020-03-12,NaN,True,True,NaN,True,True,True,2020-03-11,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5683268,US,NaN,112,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5683222,US,NaN,112,m,True,due to symptoms,still quarantined,2020-03-15,NaN,True,NaN,True,True,True,NaN,2020-03-15,NaN,True,True,doctors office,NaN,NaN,NaN,NaN,True,NaN,NaN,2020-03-16,positive,Dr. Office,NY
-5681853,US,NaN,105,f,True,general quarantine,still quarantined,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NY
-5679175,US,FL,334,f,True,voluntary,still quarantined,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,FL
+country_code,state_code,zip_code_3dig,gender,was_quarantined,reason_quarantine,date_start_quarantine,date_end_quarantine,is_symptomatic,fever,cough,difficulty_breathing,fatigue,sore_throat,date_start_symptoms,date_end_symptoms
+US,TX,762,f,True,voluntary,2020-03-19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,904,m,True,general quarantine,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,NaN,m,True,voluntary,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,947,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NC,272,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,RI,028,f,True,voluntary,2020-03-11,2020-03-25,True,True,NaN,NaN,True,NaN,2020-03-11,2020-03-25
+US,MD,212,m,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,805,f,True,general quarantine,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,m,True,voluntary,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,805,f,True,general quarantine,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,310,f,True,voluntary,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,317,f,True,general quarantine,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,voluntary,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,940,f,True,general quarantine,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,ME,041,m,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,VA,224,f,True,voluntary,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,101,m,True,voluntary,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,921,m,True,general quarantine,2020-03-20,NaN,True,True,True,NaN,True,True,2020-03-17,2020-03-29
+US,NY,100,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,805,m,True,voluntary,2020-03-14,2020-03-28,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,DE,197,m,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,805,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,805,f,True,general quarantine,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,805,f,True,voluntary,2020-03-13,2020-03-28,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,PA,175,m,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,113,m,True,voluntary,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,802,m,True,general quarantine,2020-03-25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TX,773,m,True,general quarantine,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,908,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,m,True,voluntary,2020-03-18,NaN,True,True,True,NaN,True,NaN,2020-03-16,2020-03-17
+US,GA,300,m,True,voluntary,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,331,f,True,voluntary,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,OK,741,m,True,voluntary,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MI,481,f,True,voluntary,NaN,NaN,True,True,True,NaN,True,NaN,NaN,NaN
+US,RI,029,m,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,VA,220,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,800,m,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,116,f,True,general quarantine,2020-03-16,NaN,True,True,True,True,True,True,2020-03-16,NaN
+US,WA,983,m,True,voluntary,2019-10-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,329,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,DC,200,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,AZ,852,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,945,f,True,due to symptoms,2020-03-01,NaN,True,NaN,NaN,NaN,NaN,True,2020-03-01,2020-03-17
+US,NY,105,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,105,m,True,voluntary,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,801,m,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MT,590,m,True,due to symptoms,2020-03-19,NaN,True,True,True,NaN,True,True,2020-03-19,NaN
+US,PA,190,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,305,f,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,WI,530,f,True,voluntary,2020-03-08,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,801,NaN,True,voluntary,2020-03-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,334,f,True,voluntary,2020-03-07,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,VA,201,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,947,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TN,373,m,True,general quarantine,2020-03-02,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,131,m,True,voluntary,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-15,NaN,True,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,305,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TN,373,f,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,m,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,personally required,2020-03-25,NaN,True,True,NaN,NaN,True,True,2020-03-25,NaN
+US,MD,210,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,024,m,True,general quarantine,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,voluntary,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,017,m,True,general quarantine,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TX,700,m,True,general quarantine,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,305,m,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CO,807,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,217,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,due to symptoms,2020-03-16,2020-03-20,True,True,True,NaN,NaN,NaN,2020-03-16,2020-03-18
+US,GA,300,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,217,m,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,306,m,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,PA,173,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,330,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,303,f,True,general quarantine,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,PA,152,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,general quarantine,2020-03-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TX,755,f,True,general quarantine,2020-03-19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,voluntary,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,305,m,True,voluntary,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TN,376,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,voluntary,2020-02-26,NaN,True,NaN,True,NaN,NaN,True,2020-03-01,NaN
+US,MD,210,f,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,329,f,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-22,NaN,True,NaN,True,True,True,NaN,2020-03-07,NaN
+US,OH,452,m,True,voluntary,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,211,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,GA,300,m,True,due to symptoms,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,333,m,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,f,True,general quarantine,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,801,m,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NC,286,m,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,210,m,True,voluntary,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,general quarantine,2020-03-08,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,926,m,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,f,True,general quarantine,2020-03-11,NaN,True,NaN,NaN,NaN,True,NaN,2020-03-18,2020-03-23
+US,NY,112,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,941,m,True,general quarantine,2020-03-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,107,f,True,general quarantine,2020-03-09,2020-03-23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,OR,970,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,AZ,852,f,True,voluntary,2020-03-17,NaN,True,True,True,NaN,NaN,NaN,2020-03-23,NaN
+US,NY,105,f,True,voluntary,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,920,m,True,voluntary,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,104,f,True,due to symptoms,2020-03-13,NaN,True,True,True,NaN,True,NaN,2020-03-10,NaN
+US,NY,115,m,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,024,m,True,voluntary,2020-03-14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,900,f,True,general quarantine,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,f,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,331,m,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,113,f,True,general quarantine,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,TX,750,f,True,voluntary,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,105,m,True,voluntary,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,IN,470,m,True,general quarantine,2020-03-18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,074,m,True,personally required,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MO,631,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,946,f,True,general quarantine,2020-03-02,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,921,m,True,voluntary,2020-03-16,NaN,True,NaN,NaN,NaN,True,True,2020-03-09,2020-03-16
+US,MD,212,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,m,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,personally required,2020-03-25,NaN,True,NaN,True,NaN,True,True,2020-03-24,NaN
+US,IN,470,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,926,f,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,113,f,True,general quarantine,2020-03-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,general quarantine,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,f,True,voluntary,2020-03-22,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,DC,200,m,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,f,True,voluntary,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,IL,602,f,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,900,m,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CT,068,f,True,general quarantine,2020-03-16,NaN,True,NaN,True,NaN,NaN,NaN,2020-03-14,NaN
+US,NY,105,m,True,voluntary,2020-03-12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,945,m,True,general quarantine,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NJ,074,f,True,general quarantine,2020-03-11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,AZ,860,f,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,100,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,117,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,021,m,True,voluntary,2020-03-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,general quarantine,2020-03-18,2020-03-25,True,NaN,True,NaN,NaN,True,2020-03-18,2020-03-23
+US,NY,100,f,True,general quarantine,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,due to symptoms,2020-03-17,NaN,True,True,True,NaN,True,NaN,2020-03-17,NaN
+US,CA,951,m,True,general quarantine,2020-03-09,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MA,021,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,PA,170,m,True,voluntary,2020-03-17,2020-03-26,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,general quarantine,2020-03-18,NaN,True,True,True,NaN,True,NaN,2020-03-15,NaN
+US,NY,104,m,True,voluntary,2020-03-12,2020-03-20,True,True,NaN,NaN,True,True,2020-03-10,2020-03-17
+US,FL,330,m,True,general quarantine,2020-03-17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,333,f,True,voluntary,2020-03-15,NaN,True,NaN,NaN,NaN,True,True,2020-03-19,NaN
+US,NY,100,f,True,voluntary,2020-03-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,104,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,m,True,due to symptoms,2020-03-14,NaN,True,True,True,NaN,True,True,2020-03-14,NaN
+US,MA,021,m,True,general quarantine,2020-02-24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,m,True,general quarantine,2020-03-18,NaN,True,True,NaN,NaN,NaN,NaN,2020-03-18,2020-03-25
+US,FL,331,m,True,voluntary,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,334,m,True,voluntary,2020-03-13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,330,m,True,general quarantine,NaN,NaN,True,NaN,NaN,NaN,True,NaN,2020-03-15,2020-03-16
+US,FL,330,m,True,general quarantine,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,MD,212,m,True,voluntary,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,CA,946,NaN,True,voluntary,2020-03-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,f,True,voluntary,2020-03-12,NaN,True,True,NaN,True,True,True,2020-03-11,2020-03-16
+US,NY,112,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,NY,112,m,True,due to symptoms,2020-03-15,NaN,True,NaN,True,True,True,NaN,2020-03-15,NaN
+US,NY,105,f,True,general quarantine,2020-03-16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+US,FL,334,f,True,voluntary,2020-03-15,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
