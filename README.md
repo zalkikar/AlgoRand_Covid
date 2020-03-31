@@ -1,1 +1,0 @@
-# AlgoRand_Covid
