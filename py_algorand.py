@@ -24,8 +24,14 @@ class Algorand_IReportScrape():
         
         self.txns = []
         self.batch_limit = math.ceil((self.lastRound - self.fromRound)/self.maxTxnPerCall)
-        for i in range(0,self.batch_limit):
-            self.txns.extend(self.getTransactionBatch()) # Fetch transactions for these rounds 
+        
+        rnd = self.fromRound
+        while rnd < self.lastRound:
+            toRnd = rnd + self.batchSize
+            if toRnd > self.lastRound:
+                toRnd = self.lastRound
+            self.txns.extend(self.getTransactionBatch(rnd,toRnd)) # Fetch transactions for these rounds 
+            rnd += self.batchSize
         print("found {} transactions".format(len(self.txns)))
                              
     def connectMainnet(self):
@@ -55,10 +61,10 @@ class Algorand_IReportScrape():
         block = self.algod_client.block_info(last_round)
         print(block)
                              
-    def getTransactionBatch(self):
-        if (self.fromRound > self.lastRound):# sanity check
+    def getTransactionBatch(fromRnd,lastRnd):
+        if (fromRnd > lastRnd):# sanity check
             return []
-        txs = self.algod_client.transactions_by_address(self.address,self.fromRound,self.lastRound,self.maxTxnPerCall) 
+        txs = self.algod_client.transactions_by_address(self.address,fromRnd,lastRnd,self.maxTxnPerCall) 
         # make an API call to get the transactions - 500 at a time
         return txs['transactions']
 
