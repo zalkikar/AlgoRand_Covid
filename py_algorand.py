@@ -3,6 +3,7 @@
 
 import algosdk
 import math
+import time
 
 class Algorand_IReportScrape():
     
@@ -32,6 +33,8 @@ class Algorand_IReportScrape():
                 toRnd = self.lastRound
             self.txns.extend(self.getTransactionBatch(rnd,toRnd)) # Fetch transactions for these rounds 
             rnd += self.batchSize
+            time.sleep(0.1)
+
         print("found {} transactions".format(len(self.txns)))
                              
     def connectMainnet(self):
@@ -61,7 +64,7 @@ class Algorand_IReportScrape():
         block = self.algod_client.block_info(last_round)
         print(block)
                              
-    def getTransactionBatch(fromRnd,lastRnd):
+    def getTransactionBatch(self,fromRnd,lastRnd):
         if (fromRnd > lastRnd):# sanity check
             return []
         txs = self.algod_client.transactions_by_address(self.address,fromRnd,lastRnd,self.maxTxnPerCall) 
