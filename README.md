@@ -6,8 +6,11 @@ Data Project on COVID-19 survey transactions on the Algorand Blockchain in Pytho
 Some Prelim Stats as of April 25th 2020:
 
 1237 surveys with information
+
 From 1224 valid responses: 61.11% reported being quarantined
+
 From those that reported being quarantined 68.72% left temporarily
+
 From 156 people who are symptomatic:
 * 5.13% got care at the doctor's office
 * 1.92% got care at a walk in clinic
