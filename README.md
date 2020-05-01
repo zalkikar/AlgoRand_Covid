@@ -3,7 +3,7 @@ Data Project on COVID-19 survey transactions on the Algorand Blockchain in Pytho
 
 [IReport-Covid](https://ireport.algorand.org/en) leverages the Algorand blockchain to provide anyone with the means to inform their community and world-at-large of their experience with COVID-19 in a timely and anonymized way. Here I demonstrate how to scrape and process IReport-Covid survey data from the Algorand blockchain in Python and begin analyzing the data. 
 
-* The Algorand_coviddata.ipynb notebook is a demo of bulk survey transaction scraping from the Algorand mainnet via PureStake API and the py_algorand.py script
+* The Algorand_coviddata.ipynb notebook is a demo of bulk survey transaction scraping from the Algorand mainnet via PureStake API and the [py_algorand.py](https://github.com/zalkikar/AlgoRand_Covid/blob/master/py_algorand.py) script
 * The Algorand_process.ipynb notebook is a demo of basic survey data processing.
 * The Algorand_eda.ipynb notebook is a demo of basic exploratory data analysis with the processed data.
 
