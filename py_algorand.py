@@ -26,9 +26,15 @@ class Algorand_IReportScrape():
         self.txns = []
         self.batch_limit = math.ceil((self.lastRound - self.fromRound)/self.maxTxnPerCall)
         
+        tot_rounds_div = math.floor((self.lastRound - self.fromRound)/self.batchSize)
+        marker_dict = dict(zip([math.floor(tot_rounds_div*(per/10))*self.batchSize + self.fromRound for per in list(range(1,10))],
+                               [per/10 for per in list(range(1,10))]))
+        
         rnd = self.fromRound
         while rnd < self.lastRound:
             toRnd = rnd + self.batchSize
+            if toRnd in marker_dict.keys():
+                print("{}% complete".format(marker_dict[toRnd]*100))
             if toRnd > self.lastRound:
                 toRnd = self.lastRound
             self.txns.extend(self.getTransactionBatch(rnd,toRnd)) # Fetch transactions for these rounds 
@@ -69,13 +75,11 @@ class Algorand_IReportScrape():
             return []
         txs = self.algod_client.transactions_by_address(self.address,fromRnd,lastRnd,self.maxTxnPerCall) 
         # make an API call to get the transactions - 500 at a time
-        return txs['transactions']
 
         #  A recursive function for getting a batch of transactions, to overcome
         # the limitation of maxTxnPerCall transaction per call to the API
-        '''
         # If we got all the transactions, just return them
-        if (fromRnd == toRnd | len(txs['transactions']) < maxTxnPerCall):
+        if ((fromRnd == lastRnd) | (len(txs['transactions']) < self.maxTxnPerCall)):
             return txs['transactions']
 
             # FIXME: If a single block contains more than maxTxnPerCall
@@ -92,8 +96,6 @@ class Algorand_IReportScrape():
             txns2 = getTransactionBatch(midRnd+1, toRnd)
             # return the concatenation of the two chunks
             return txns1.concat(txns2)
-        '''
                              
     def get_txns(self):
         return self.txns
-
