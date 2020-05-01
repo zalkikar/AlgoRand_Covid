@@ -7,7 +7,7 @@ Data Project on COVID-19 survey transactions on the Algorand Blockchain in Pytho
 * The Algorand_process.ipynb notebook is a demo of basic survey data processing.
 * The Algorand_eda.ipynb notebook is a demo of basic exploratory data analysis with the processed data.
 
-After cloning, navigate to the local repo directory in your terminal and run notebooks cell by cell in the Jupyter IDE by typing ```python jupyter notebook``` to start. Otherwise, in your terminal run ipython ```python ipython``` and then ```python %run notebook_name.ipynb```
+After cloning, navigate to the local repo directory in your terminal and run notebooks cell by cell in the Jupyter IDE by typing ```jupyter notebook``` to start. Otherwise, in your terminal run ```ipython run notebook_name.ipynb```
 
 Some Prelim Stats as of April 29th 2020:
 
